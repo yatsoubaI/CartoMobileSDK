@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CartoMobileSDK",
-            url: "https://raw.githubusercontent.com/yatsoubaI/CartoMobileSDK/main/sdk4-ios-4.4.7-devel.zip",
-            checksum: "01737b357e328176c85307f3bb946b1f8fb1de923c5e5fef307b8a16f34aef35"
+            url: "/Users/iyatsouba/git/diia-map-ios/",
+            checksum: "0e60daa1af89de7c5027032d6246dd0afe033d6679c1c804cdd09126fa79ab9a"
         )
     ]
 )
