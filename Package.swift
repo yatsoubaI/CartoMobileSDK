@@ -3,14 +3,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "CartoMobileSDK",
+    name: "diia-map",
     platforms: [
         .iOS(.v9)
     ],
     products: [
         .library(
             name: "diia-map",
-            targets: ["diia-map"]
+            targets: ["CartoMobileSDK"]
         )
     ],
     dependencies: [
