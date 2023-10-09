@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "diia-map",
+    name: "CartoMobileSDK",
     platforms: [
         .iOS(.v9)
     ],
