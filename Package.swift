@@ -9,7 +9,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "diia-map",
+            name: "CartoMobileSDK",
             targets: ["CartoMobileSDK"]
         )
     ],
