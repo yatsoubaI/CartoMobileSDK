@@ -19,7 +19,7 @@ let package = Package(
         .binaryTarget(
             name: "CartoMobileSDK",
             url: "https://raw.githubusercontent.com/yatsoubaI/CartoMobileSDK/main/sdk4-ios-4.4.7-devel.zip",
-            checksum: "b080d2eaba7880c36b2e78027297efad361aa6bdbb6b369c2af02c1e9bed4374"
+            checksum: "45f0f75a1916d8486eaaf1a0903c38595257fdce6247776eb51da990527d5b91"
         )
     ]
 )
